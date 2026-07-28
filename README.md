@@ -39,7 +39,7 @@ After comparing all models, the Decision Tree Classifier demonstrated the best o
 ### Logistic Regression
 
 <p align="center">
-  <img src="ML Model & Model Evaluation outputs/LogisticRegression.png" width="850">
+  <img src="Model evaluation/LogisticRegression.png" width="850">
 </p>
 
 ---
@@ -47,7 +47,7 @@ After comparing all models, the Decision Tree Classifier demonstrated the best o
 ### Gaussian Naive Bayes
 
 <p align="center">
-  <img src="ML Model & Model Evaluation outputs/GaussianNB.png" width="850">
+  <img src="Model evaluation/GaussianNB.png" width="850">
 </p>
 
 ---
@@ -55,7 +55,7 @@ After comparing all models, the Decision Tree Classifier demonstrated the best o
 ### Decision Tree Classifier
 
 <p align="center">
-  <img src="ML Model & Model Evaluation outputs/DecisionTreeClassifier.png" width="850">
+  <img src="Model evaluation/DecisionTreeClassifier.png" width="850">
 </p>
 
 # Project Objectives
